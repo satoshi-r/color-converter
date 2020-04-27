@@ -4,7 +4,7 @@ Convert hex2rgb and rgb2hex.
 ## Install
 
 ```shell
-npm i -g color-converter
+npm i -g @satoshi-r/color-converter
 ```
 
 ## Usage
