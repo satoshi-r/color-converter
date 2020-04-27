@@ -14,11 +14,11 @@ inquirer
     .then(answers => {
         const color = answers.color.trim();
         if (isHex(color)) {
-            console.log(chalk.bgHex(color).bold(hexToRgb(color)));
+            console.log(chalk.hex(color).bold(hexToRgb(color)));
 
         } else if (isRgb(color)) {
             const rgbArr = rgbHelp(color);
-            console.log(chalk.bgRgb(...rgbArr).bold(rgbToHex(...rgbArr)));
+            console.log(chalk.rgb(...rgbArr).bold(rgbToHex(...rgbArr)));
 
         } else {
             console.error(chalk.bold.red('Error!\n'), chalk.bold('Template:\n'), chalk.inverse('rgb(255, 255, 255)\n'), chalk.inverse('#ffffff or #fff\n'));
