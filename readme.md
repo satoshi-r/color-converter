@@ -1,8 +1,13 @@
-<h1>Color-converter cli</h1>
-<p>Convert hex2rgb and rgb2hex.</p>
-<h2>Install</h2>
-<code>npm i -g color-converter</code>
-<h2>Usage</h2>
+# Color-converter cli
+Convert hex2rgb and rgb2hex.
+
+## Install
+
+```shell
+npm i -g color-converter
+```
+
+## Usage
 
 ```shell
 $ color-converter
