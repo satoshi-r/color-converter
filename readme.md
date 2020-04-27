@@ -3,4 +3,9 @@
 <h2>Install</h2>
 <code>npm i -g color-converter</code>
 <h2>Usage</h2>
-<code>$ color-converter <br> <b>? Input color:</b> #f3f4aa <br> rgb(243, 244, 170)</code>
+
+```shell
+$ color-converter
+? Input color:  #f3f4aa
+rgb(243, 244, 170)
+```
