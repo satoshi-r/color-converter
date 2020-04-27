@@ -1,6 +1,6 @@
 {
   "name": "@satoshi-r/color-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "color converter hex2rgb & rgb2hex",
   "preferGlobal": true,
   "bin": {
