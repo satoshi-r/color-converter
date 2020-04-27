@@ -3,4 +3,4 @@
 <h2>Install</h2>
 <code>npm i -g color-converter</code>
 <h2>Usage</h2>
-<img src="screenshot.png">
+<code>$ color-converter <br> <b>? Input color:</b> #f3f4aa <br> rgb(243, 244, 170)</code>
