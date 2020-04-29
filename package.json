@@ -18,6 +18,10 @@
   ],
   "author": "@Satoshi_1",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satoshi-r/color-converter"
+  },
   "dependencies": {
     "chalk": "^4.0.0",
     "inquirer": "^7.1.0"
