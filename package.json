@@ -23,8 +23,8 @@
     "url": "https://github.com/satoshi-r/color-converter"
   },
   "dependencies": {
-    "chalk": "^4.0.0",
-    "inquirer": "^7.1.0"
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3"
   },
   "devDependencies": {}
 }
